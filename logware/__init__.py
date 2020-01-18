@@ -1,6 +1,6 @@
 from webob import Request
 
-class Middleware:
+class RequestLogger:
 
     # Defaults
     code_check_point = 100 

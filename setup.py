@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='logware',
-    version='0.1',
+    version='0.1.1',
     description='Simple request logging middleware',
     url='https://github.com/GiridharSamanth/python-logware',
     author='Giridhar',
