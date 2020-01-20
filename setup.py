@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(name='logware',
-    version='0.1.1',
-    description='Simple request logging middleware',
-    url='https://github.com/GiridharSamanth/python-logware',
+    version='0.1.2',
+    description='Logging middleware for python web services',
+    url='https://github.com/Pratilipi-Labs/python-logware',
     author='Giridhar',
     author_email='samanth.giridhar@gmail.com',
     license='MIT',
