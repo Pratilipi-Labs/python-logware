@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='logware',
-    version='0.1.2',
+    version='0.1.4',
     description='Logging middleware for python web services',
     url='https://github.com/Pratilipi-Labs/python-logware',
     author='Giridhar',
